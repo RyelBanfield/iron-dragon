@@ -1,14 +1,28 @@
 {
   "name": "iron-dragon",
   "displayName": "Iron Dragon",
-  "description": "Iron Dragon Theme!",
   "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.90.0"
-  },
+  "description": "Iron Dragon Theme!",
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "theme",
+    "dark",
+    "iron",
+    "dragon",
+    "irondragon",
+    "iron dragon",
+    "ryel",
+    "banfield",
+    "ryelbanfield",
+    "ryel banfield"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RyelBanfield/iron-dragon"
+  },
+  "publisher": "RyelBanfield",
   "contributes": {
     "themes": [
       {
@@ -17,5 +31,8 @@
         "path": "./themes/Iron Dragon-color-theme.json"
       }
     ]
+  },
+  "engines": {
+    "vscode": "^1.90.0"
   }
 }

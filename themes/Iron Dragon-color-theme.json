@@ -43,8 +43,8 @@
     "editorGutter.modifiedBackground": "#A0A0A060",
     "editorHoverWidget.background": "#121212",
     "editorHoverWidget.border": "#96969610",
-    "editorIndentGuide.activeBackground": "#363636",
-    "editorIndentGuide.background": "#36363670",
+    "editorIndentGuide.activeBackground1": "#363636",
+    "editorIndentGuide.background1": "#36363670",
     "editorInfo.foreground": "#A0A0A070",
     "editorLineNumber.activeForeground": "#A0A0A0",
     "editorLineNumber.foreground": "#727272c0",
@@ -52,7 +52,7 @@
     "editorMarkerNavigation.background": "#84848405",
     "editorOverviewRuler.border": "#121212",
     "editorOverviewRuler.errorForeground": "#74747440",
-    "editorOverviewRuler.findMatchForeground": "#727272",
+    "editorOverviewRuler.findMatchForeground": "#72727200",
     "editorOverviewRuler.infoForeground": "#A0A0A040",
     "editorOverviewRuler.warningForeground": "#74747470",
     "editorRuler.foreground": "#363636",
@@ -83,8 +83,8 @@
     "inputValidation.errorBorder": "#74747450",
     "inputValidation.infoBorder": "#A0A0A050",
     "inputValidation.warningBorder": "#74747450",
-    "list.activeSelectionBackground": "#121212",
-    "list.activeSelectionForeground": "#727272",
+    "list.activeSelectionBackground": "#a00000c1",
+    "list.activeSelectionForeground": "#ffffffc7",
     "list.focusBackground": "#242424",
     "list.focusForeground": "#A0A0A0",
     "list.highlightForeground": "#727272",
@@ -214,7 +214,7 @@
         "storage.modifier"
       ],
       "settings": {
-        "foreground": "#747474"
+        "foreground": "#ffffff56"
       }
     },
     {
@@ -226,7 +226,7 @@
         "punctuation.definition.interpolation.begin.bracket.curly.scss"
       ],
       "settings": {
-        "fontStyle": "italic"
+        "foreground": "#ba1111"
       }
     },
     {
@@ -276,7 +276,7 @@
         "entity.name.tag.reference.scss"
       ],
       "settings": {
-        "foreground": "#A7A8AF"
+        "foreground": "#cbcbcb8e"
       }
     },
     {
@@ -308,12 +308,13 @@
     {
       "scope": ["punctuation.definition", "string.quoted.single.scss"],
       "settings": {
-        "foreground": "#A7A8AF"
+        "foreground": "#676767a2"
       }
     },
     {
       "scope": ["keyword.control"],
       "settings": {
+        "foreground": "#8f8f8fdc",
         "fontStyle": "bold"
       }
     },
@@ -396,7 +397,7 @@
         "source.sass keyword.control"
       ],
       "settings": {
-        "foreground": "#A0A0A0"
+        "foreground": "#ffffff9d"
       }
     },
     {
@@ -467,7 +468,7 @@
         "entity.other.attribute-name.html"
       ],
       "settings": {
-        "foreground": "#747474"
+        "foreground": "#ff0000a0"
       }
     },
     {
@@ -530,7 +531,7 @@
         "meta.object-literal.key"
       ],
       "settings": {
-        "foreground": "#848484"
+        "foreground": "#84848494"
       }
     },
     {

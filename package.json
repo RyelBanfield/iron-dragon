@@ -2,7 +2,7 @@
   "name": "iron-dragon",
   "displayName": "Iron Dragon",
   "version": "0.0.1",
-  "description": "Iron Dragon Theme!",
+  "description": "A clean and minimal dark theme inspired by the iron dragon on my desk.",
   "categories": [
     "Themes"
   ],
@@ -34,5 +34,6 @@
   },
   "engines": {
     "vscode": "^1.90.0"
-  }
+  },
+  "icon": "/logo.png"
 }

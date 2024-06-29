@@ -1,9 +1,11 @@
-# Change Log
+# iron-dragon theme
 
-All notable changes to the "iron-dragon" extension will be documented in this file.
+## 0.0.2
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+- Update description
+- Update README
+- Add Logo
 
-## [Unreleased]
+## 0.0.1
 
 - Initial release

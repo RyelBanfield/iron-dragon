@@ -1,0 +1,21 @@
+{
+  "name": "iron-dragon",
+  "displayName": "Iron Dragon",
+  "description": "Iron Dragon Theme!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Iron Dragon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Iron Dragon-color-theme.json"
+      }
+    ]
+  }
+}

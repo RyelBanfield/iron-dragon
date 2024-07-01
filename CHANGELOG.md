@@ -1,5 +1,9 @@
 # iron-dragon theme
 
+## 0.0.6
+
+- Mess with colors
+
 ## 0.0.5
 
 - Mess with colors
